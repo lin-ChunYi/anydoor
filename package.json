@@ -4,7 +4,7 @@
     "version" : "0.0.2",
     "main":"src/app.js",
     "bin" : {
-      "anydoor" : "bin/anydoor.bat"
+      "anydoor" : "./src/index.js"
     },
     "repository": {
         "type": "git",
