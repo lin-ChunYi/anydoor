@@ -1,5 +1,5 @@
 {
-    "name" : "anydoor",
+    "name" : "anydoor-lcy",
     "description" : "NodeJs Web Server",
     "version" : "0.0.1",
     "main":"src/app.js",
