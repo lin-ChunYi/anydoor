@@ -1,10 +1,10 @@
 {
-    "name": "anydoor-lcy",
-    "description": "NodeJs Web Server",
-    "version": "0.0.3",
-    "main": "src/app.js",
-    "bin": {
-        "anydoor": "./src/index.js"
+    "name" : "anydoor-lcy",
+    "description" : "NodeJs Web Server",
+    "version" : "0.0.4",
+    "main":"src/app.js",
+    "bin" : {
+      "anydoor" : "bin/anydoor"
     },
     "repository": {
         "type": "git",
